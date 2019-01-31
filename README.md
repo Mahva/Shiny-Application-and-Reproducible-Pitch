@@ -2,3 +2,4 @@
 Shiny-Application-and-Reproducible-Pitch
 Introduction
 Objectives
+Conslusion and summary
